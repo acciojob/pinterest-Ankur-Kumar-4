@@ -1,1 +1,40 @@
-/*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.hero{
+	display:flex;
+	justify-content:center;
+	align-item:center;
+	
+}
+.refns{
+	padding-inline:2vw;
+	margin-top:6vw;
+}
+img{
+	width:60vw;
+	height:40vw;
+	object-fit:cover;
+}
+h1{
+	text-align:center;
+}
+p{
+	text-align:center;
+	margin-top:2vw;
+}
+.btn{
+	margin-top:3vw;
+	margin-left:12vw;
+    color:white;
+	border-radius:5px;
+	background-color:#ff0001;
+	padding:12px;
+	border:none;
+}
+
+
+
+
